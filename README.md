@@ -1,4 +1,6 @@
-- 👋 
+- 👋
+- **web:** [link](https://omotopopo.github.io/)
+- **project cycle:** [link](https://cyclecyclecycle.neocities.org/)
 
 
 <!---
