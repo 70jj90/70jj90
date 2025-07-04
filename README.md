@@ -1,6 +1,5 @@
 - 👋 
-- project Cycle: https://cyclecyclecycle.neocities.org/
-- github page: https://70jj90.github.io/webpage/index.html
+
 
 <!---
 70jj90/70jj90 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
